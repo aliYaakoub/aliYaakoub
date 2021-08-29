@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me {
-  email : eagleyes2015@gmail.com
+  email : ali.yaakoub.2021@gmail.com
 }
 
 <!---
