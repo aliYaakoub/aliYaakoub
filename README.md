@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliYaakoub
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React
 - 📫 How to reach me {
   email : ali.yaakoub.2021@gmail.com
 }
