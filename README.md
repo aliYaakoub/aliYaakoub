@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @aliYaakoub
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently mastering React && Next JS
 - 📫 How to reach me {
   email : ali.yaakoub.2021@gmail.com
 }
