@@ -4,7 +4,13 @@
 
 - 👋 Hi, I’m @aliYaakoub
 - 👀 I’m interested in web development
-- 🌱 I’m currently mastering React && Next JS
+- 🌱 I’m currently working as a freelancer
+- My stack 
+  . HTML/CSS/SASS
+  . JavaScript/TypeScript
+  . React JS
+  . Next JS
+  . Tailwind CSS
 - 📫 How to reach me {
   email : ali.yaakoub.2021@gmail.com
 }
