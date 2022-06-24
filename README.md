@@ -1,5 +1,7 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliYaakoub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Ali Yaakoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliYaakoub&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliYaakoub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @aliYaakoub
 - 👀 I’m interested in web development
 - 🌱 I’m currently mastering React && Next JS
