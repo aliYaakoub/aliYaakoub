@@ -1,6 +1,6 @@
-![Ali Yaakoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliYaakoub&show_icons=true&count_private=true&hide=stars&theme=github_dark)
+![Ali Yaakoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliYaakoub&show_icons=true&count_private=true&hide=stars&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliYaakoub&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliYaakoub&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @aliYaakoub
 - 👀 I’m interested in web development
