@@ -9,7 +9,7 @@
 
   * HTML/CSS/SASS
   * JavaScript/TypeScript
-  * React JS
+  * React JS && React Native
   * Next JS
   * Tailwind CSS
 - 📫 How to reach me {
