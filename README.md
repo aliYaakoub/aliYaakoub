@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @aliYaakoub
 - 👀 I’m interested in web development
 - 🌱 I’m currently working as a freelancer
-- My stack 
+- My stack :
   * HTML/CSS/SASS
   * JavaScript/TypeScript
   * React JS
