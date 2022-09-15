@@ -3,8 +3,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliYaakoub&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @aliYaakoub
-- 👀 I’m interested in web development
-- 🌱 I’m currently working as a freelancer
+- 👀 I’m interested in software development
+- 🌱 I’m currently working as a freelancer at Upwork
 - My stack :
 
   * HTML/CSS/SASS
