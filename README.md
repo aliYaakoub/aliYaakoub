@@ -4,14 +4,13 @@
 
 - 👋 Hi, I’m @aliYaakoub
 - 👀 I’m interested in software development
-- 🌱 I’m currently working as a freelancer at Upwork
+- 🌱 I’m currently working as a front-end developer 
 - My stack :
 
   * HTML/CSS/SASS
   * JavaScript/TypeScript
-  * React JS && React Native
-  * Next JS
-  * Tailwind CSS
+  * React JS && React Native && Next JS && Vue JS
+  * Tailwind CSS && Material UI && Element Plus && Chadcn UI
 - 📫 How to reach me {
   email : ali.yaakoub.2021@gmail.com
 }
